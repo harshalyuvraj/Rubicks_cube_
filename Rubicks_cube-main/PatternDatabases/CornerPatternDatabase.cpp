@@ -1,6 +1,4 @@
-//
-// Created by YASH LAXKAR on 17-02-2022.
-//
+
 
 #include "CornerPatternDatabase.h"
 
