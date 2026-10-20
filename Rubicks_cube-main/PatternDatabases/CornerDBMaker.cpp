@@ -1,6 +1,4 @@
-//
-// Created by YASH LAXKAR on 18-02-2022.
-//
+
 
 #include "CornerDBMaker.h"
 
